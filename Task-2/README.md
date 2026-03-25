@@ -17,6 +17,8 @@ Application accessible on http://localhost:8000/
 <img width="1913" height="1012" alt="Screenshot 2026-03-25 155953" src="https://github.com/user-attachments/assets/7cc15b73-3906-4d67-81d4-1d1e00850ccf" />
 
 
+<img width="1895" height="1020" alt="Screenshot 2026-03-25 160223" src="https://github.com/user-attachments/assets/f15f9530-b874-45c9-b5c3-ddb9cd109bde" />
+
 
 <img width="1899" height="975" alt="Screenshot 2026-03-25 160009" src="https://github.com/user-attachments/assets/a477c7d0-13dd-42e3-9d45-081e729c3d1f" />
 
