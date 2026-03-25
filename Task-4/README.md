@@ -7,7 +7,9 @@
 
 ## Commands:
 sudo adduser monitoruser
+
 sudo chown -R monitoruser:monitoruser /opt/container-monitor
+
 sudo chmod -R 700 /opt/container-monitor
 
 ## Result:
