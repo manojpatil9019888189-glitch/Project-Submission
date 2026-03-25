@@ -13,7 +13,7 @@ sudo chown -R monitoruser:monitoruser /opt/container-monitor
 sudo chmod -R 700 /opt/container-monitor
 
 ## Result:
-Only monitoruser can access monitoring logs
+Only monitor user can access monitoring logs
 
 
 ## VERIFICATION COMMANDS
